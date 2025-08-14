@@ -26,8 +26,8 @@ Experienced full-stack developer with deep expertise in Laravel and Node.js, spe
 
 ---
 
-<p align="center">
-    <img src="https://api.lanyard.rest/v1/users/757152370516820060" />
+<p align="left">
+  <img src="https://lanyard.cnrad.dev/api/757152370516820060" />
 </p>
 <!-- <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=bagusrizal22&theme=tokyonight" />
