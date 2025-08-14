@@ -1,9 +1,9 @@
 # 🏄‍♂️ Gojenghyah
 
-**`Dump Programmer (Developer/Designer/IT Support)`**
+**`Dump Programmer (Laravel | Node.js)`**
 
 Hi, I’m Rizal. Nice to meet you.
-Since beginning my journey as a Fresh Graduate as Web developer and IT Support, I've donework as a IT Support in Hospital. I'm quietly confident, naturally curious, and perpetually working on improving my chops one Code problem at a time.
+Experienced full-stack developer with deep expertise in Laravel and Node.js, specializing in building scalable, high-performance, and secure web applications. Skilled in designing robust backend architectures, optimizing database performance, and implementing clean, maintainable code that drives business success.
 
 ---
 
@@ -27,7 +27,7 @@ Since beginning my journey as a Fresh Graduate as Web developer and IT Support, 
 ---
 
 <p align="center">
-    <img src="https://lanyard.kyrie25.me/api/757152370516820060" />
+    <img src="https://api.lanyard.rest/v1/users/757152370516820060" />
 </p>
 <!-- <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=bagusrizal22&theme=tokyonight" />
